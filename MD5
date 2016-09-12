@@ -1,0 +1,17 @@
+c66c9564d0b25e0ab4b8393bb4ab1734 *DESCRIPTION
+bd39fb2a75c1e75c7ddc9d22b3d111e4 *NAMESPACE
+730aa01d7f9a8d98deecf0bbeb655d66 *R/data.R
+869c5dbe908a5e27ff4a9a8c8ba592e5 *R/deadbandAD.R
+68800a1132d03871e99c4d4b15d85d74 *R/deadbandBD.R
+69ff2e92c534f0226eee717e2333fad4 *R/deadbandVD.R
+a70bb3fc46f73702953b2ebae59f7db1 *data/synthetic.sub35.rda
+eac3434de90965c873f39bbf1ef68384 *data/synthetic.sub40.rda
+e007c2b0dda6c02b794b94ec2fc301fd *data/synthetic.sub42.rda
+504960d954190ad9a462ffe95c9718f8 *data/synthetic.sub50.rda
+b2d37419be1c8f29c0aed36e8931dfb4 *man/deadbandAD.Rd
+66a98ad9ea856b6c1434a78e70cd691d *man/deadbandBD.Rd
+7425313b70a8bd97858595f049ff6b81 *man/deadbandVD.Rd
+722439b6c7316247ce6623579cbf33ff *man/synthetic.sub35.Rd
+db3f7b018d936faee7f98025b5a61efd *man/synthetic.sub40.Rd
+38101138c43727f2ca6be3fe3ce3a839 *man/synthetic.sub42.Rd
+7819a0547197ce7c5888eec52e162191 *man/synthetic.sub50.Rd
